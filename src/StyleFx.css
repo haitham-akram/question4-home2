@@ -1,0 +1,13 @@
+.button{
+    -fx-background-color: gray;
+    -fx-text-fill: white;
+}
+#la{ -fx-font-weight:bold; 
+     -fx-font-size:20px;
+}
+.root{
+-fx-background-image: url("\wood.jpg");
+}
+#lab{ 
+-fx-text-fill:darkgray ;
+}
