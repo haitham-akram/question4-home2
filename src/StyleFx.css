@@ -4,10 +4,11 @@
 }
 #la{ -fx-font-weight:bold; 
      -fx-font-size:20px;
+     -fx-text-fill:#cbcbcb ;
 }
 .root{
 -fx-background-image: url("\wood.jpg");
 }
 #lab{ 
--fx-text-fill:darkgray ;
+-fx-text-fill:#cbcbcb ;
 }
